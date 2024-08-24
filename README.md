@@ -13,8 +13,8 @@ Getting Started
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/event-card-project.git
-cd event-card-project
+git clone https://github.com/somanath27/Sports-Day.git
+cd sports-day
 ```
 
 2. Install Dependencies
