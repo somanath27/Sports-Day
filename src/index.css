@@ -1,5 +1,4 @@
-/* src/index.css */
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,4 +7,3 @@
     @apply bg-white shadow-lg rounded-lg border border-gray-200;
   }
 }
-
