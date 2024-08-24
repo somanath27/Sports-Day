@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import EventList from "../Event/Sections/EventList";
-import SelectedEvents from "../Event/Sections/SelectedEvents";
+import EventList from "../../components/Events/EventList";
+import SelectedEvents from "../../components/Events/SelectedEvents";
 import mockEvents from "../../api/mock.json";
 
 const Event = () => {

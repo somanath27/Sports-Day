@@ -1,4 +1,4 @@
-import { standardTime } from "../../../utils/timing";
+import { standardTime } from "../../utils/timing";
 
 interface SelectedEventsProps {
   selectedEvents: {
